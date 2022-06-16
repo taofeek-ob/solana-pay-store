@@ -3,25 +3,26 @@
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  max-width: 320px;
-  height: 400px;
-  background-color: #141414;
+  width: 320px;
+  height: 380px;
+  background-color: white;
   margin: 15px;
   padding: 20px;
   border-radius: 16px;
   border: 1px solid rgb(104, 104, 104);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   /* background: url('../public/blur-bg.png') */
 }
 
 .product_image{
   width: 140px;
-  background-color: #141414;
+  /* background-color: #141414; */
 }
 
 .product_details{
   display: flex;
   flex-direction: column;
-  max-width: 95%;
+  width: 280px;
 }
 
 .product_text{
@@ -47,6 +48,8 @@
   justify-content: space-between;
   align-items: center;
   width: 100%;
+ 
+  
 }
 
 .product_price{

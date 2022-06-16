@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Book 1",
+    "price": "1",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": "just a cvs file",
+    "filename": "Book1.csv",
+    "hash": "QmRA2HoR1c34FPaoG18YhRrLZP5Rv91Nwce1yZjrgjfT2E"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "price": "",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": "",
+    "filename": "bb.jpg",
+    "hash": "Qmei6UZLVRqQ2HMmgpqMseK8LX25oj8YTDH2sUT15qjKTj"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "price": "3",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": "",
+    "filename": "Aesthetics.png",
+    "hash": "QmWLqRUDC5CWgUQFEheanhdkbDFgiAaNW2hzMxmiBc9Twp"
+  }
+]
