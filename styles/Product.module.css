@@ -22,6 +22,7 @@
 .product_details{
   display: flex;
   flex-direction: column;
+  flex-grow:1;
   width: 280px;
 }
 
